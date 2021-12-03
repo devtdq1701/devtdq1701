@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/DQ1701/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
+  <a href="https://twitter.com/dangquangtran1">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -46,7 +46,5 @@ DevOps Intern
 <p align='center'>
   📫 How to reach me: <a href='mailto:nnhuyenmyepu1701@gmail.com'>nnhuyenmyepu1701@gmail.com</a>
 </p>
-<!-- <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
-</p> -->
+
 
