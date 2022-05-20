@@ -31,7 +31,7 @@
 <b>Gender:</b> he/his/Male 🇻🇳
 </li>
 <li>
-<b>Hobbys:</b> Sleep, Researching
+<b>Hobbys:</b> Sleep, Researching, LOL
 </li>
 <li>
 <b>Working @:</b> InterITS | Nextify
@@ -39,7 +39,15 @@
 <br><br><br>
 </div>
 <div>
-
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+ <br>
+<p>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+  </div>
+</div>
+<div>
+  <br>
 
 
 <p align='center'>
@@ -65,19 +73,26 @@
   <img src="https://img.shields.io/badge/AMD-Radeon_R5_M230-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
-<h2 align="center">About me </h2>
-<p align="center">
-<b>InterITS JSC.,</b>
+<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+  <div align="center">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+  </div>
 <br>
-DevOps Intern
+<p align="center">Hewe awe some of my <br>
+most used s-s-sociaw things >~< xoxox</p>
+<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitch.tv/lillykali" target="_blank"><img src="https://img.shields.io/badge/Lillykali%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+</div>
 <br>
-<b>Add</b>: TT01 - 33, HD Mon City, Ham Nghi, My Dinh, Nam Tu Liem, Ha Noi 
-<br>
-<b>Email</b>: quangtd@interits.com | Website: https://interits.com/
-</p>
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:nnhuyenmyepu1701@gmail.com'>nnhuyenmyepu1701@gmail.com</a>
-</p>
+<div>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
 
 
