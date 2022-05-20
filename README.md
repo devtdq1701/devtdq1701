@@ -4,7 +4,6 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<!--   <a href="https://laby.net/@liebesschwur" > -->
    <img src="https://i.imgur.com/cFSo5E1.png">
 <!--   </a> -->
   <br>
@@ -12,7 +11,6 @@
 </div>
  <br>
     <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
@@ -80,15 +78,17 @@
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<a href="https://www.facebook.com/DQ1701/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>&nbsp;&nbsp;
 <p align="center">
   <a href="https://www.facebook.com/DQ1701/" target="_blank">
     <img src="https://img.shields.io/badge/DQ1701%20-%237289DA.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a> 
   <a href="https://t.me/quang1701" target="_blank">
     <img src="https://img.shields.io/badge/@quang1701%20-%237289DA.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:nnhuyenmyepu1701@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/nnhuyenmyepu1701@gmail.com%20-%239146FF.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 </div>
