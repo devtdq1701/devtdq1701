@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 <!--   <a href="https://laby.net/@liebesschwur" > -->
-   <img src="https://imgur.com/cFSo5E1"  />
+   <blockquote class="imgur-embed-pub" lang="en" data-id="cFSo5E1"><a href="https://imgur.com/cFSo5E1">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <!--   </a> -->
   <br>
   <p>𝑔𝒾𝓇𝒾 𝑔𝒾𝓇𝒾 𝑒𝓎𝑒 𝒾𝓀𝑒𝓃𝒶𝒾 𝒷𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒</p>
