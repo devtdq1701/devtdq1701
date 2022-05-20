@@ -20,21 +20,21 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> <a href='https://laby.net/@liebesschwur' target=_blank>Emily</a></li>
+ <b>Name:</b>Dang Quang</li>
 <li>
-<b>Fursona:</b> Female Snow Fox
+<b>Fursona:</b> Snow Cat
 </li>
 <li>
-<b>Loves:</b> anime, osu, rythm games
+<b>Loves:</b> Linux, Docker =))
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>Gender:</b> he/his/Male 🇻🇳
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Sleep, Researching, 
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat | snens.team
+<b>Working @:</b> InterITS | Nextify
 </li>
 <br><br><br>
 </div>
