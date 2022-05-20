@@ -4,10 +4,9 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://laby.net/@liebesschwur" >
-   <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
-  </a>
+<!--   <a href="https://laby.net/@liebesschwur" > -->
+   <img src="https://imgur.com/cFSo5E1"  />
+<!--   </a> -->
   <br>
   <p>𝑔𝒾𝓇𝒾 𝑔𝒾𝓇𝒾 𝑒𝓎𝑒 𝒾𝓀𝑒𝓃𝒶𝒾 𝒷𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒</p>
 </div>
