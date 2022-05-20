@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 <!--   <a href="https://laby.net/@liebesschwur" > -->
-   [LOL](https://i.imgur.com/cFSo5E1.png)
+   <img src="https://i.imgur.com/cFSo5E1.png">
 <!--   </a> -->
   <br>
   <p>𝑔𝒾𝓇𝒾 𝑔𝒾𝓇𝒾 𝑒𝓎𝑒 𝒾𝓀𝑒𝓃𝒶𝒾 𝒷𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒</p>
