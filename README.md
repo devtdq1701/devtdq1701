@@ -80,8 +80,17 @@
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/lillykali" target="_blank"><img src="https://img.shields.io/badge/Lillykali%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<a href="https://www.facebook.com/DQ1701/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>&nbsp;&nbsp;
+<p align="center">
+  <a href="https://www.facebook.com/DQ1701/" target="_blank">
+    <img src="https://img.shields.io/badge/DQ1701%20-%237289DA.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a> 
+  <a href="https://t.me/quang1701" target="_blank">
+    <img src="https://img.shields.io/badge/@quang1701%20-%237289DA.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 </div>
 <br>
 <div>
