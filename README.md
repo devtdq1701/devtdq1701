@@ -37,7 +37,7 @@
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            ~ 📇 𝓜𝔂 𝓦𝓸𝓻𝓴𝓼𝓹𝓪𝓬𝓮 📇 ~</h2>
  <br>
 <p>
   <div align="center">
