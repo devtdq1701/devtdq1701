@@ -99,7 +99,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://gfycat.com/foolhardyanchoredkid">
+<img src="https://thumbs.gfycat.com/FoolhardyAnchoredKid-mobile.mp4">
 </div>
 <hr>
 </div>
