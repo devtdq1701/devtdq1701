@@ -41,11 +41,11 @@
 </div>
 </div>
 <div>
-<h2 align="center">            ~ 📇 𝓜𝔂 𝓦𝓸𝓻𝓴𝓼𝓹𝓪𝓬𝓮  📇 ~</h2>
+<h2 align="center">~ 📇 𝓜𝔂 𝓦𝓸𝓻𝓴𝓼𝓹𝓪𝓬𝓮  📇 ~</h2>
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif">
   </div>
 </div>
 <div>
@@ -75,9 +75,9 @@
   <img src="https://img.shields.io/badge/AMD-Radeon_R5_M230-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">Hewe awe some of my <br>
