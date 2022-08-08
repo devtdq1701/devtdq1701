@@ -35,7 +35,7 @@
 <b>Hobbys:</b> Sleep, Researching, LOL
 </li>
 <li>
-<b>Working @:</b> InterITS | Nextify
+<b>Working @:</b> Cốc Cốc Browser | The web browser for Vietnamese people
 </li>
 <br><br><br>
 </div>
