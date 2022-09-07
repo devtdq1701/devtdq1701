@@ -85,8 +85,8 @@ most used s-s-sociaw things >~< xoxox</p>
   <a href="https://www.facebook.com/DQ1701/" target="_blank">
     <img src="https://img.shields.io/badge/DQ1701%20-%237289DA.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a> 
-  <a href="https://t.me/quang1701" target="_blank">
-    <img src="https://img.shields.io/badge/@quang1701%20-%237289DA.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/quangtd" target="_blank">
+    <img src="https://img.shields.io/badge/@quangtd%20-%237289DA.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 <p align="center">
