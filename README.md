@@ -35,7 +35,7 @@
 <b>Hobbys:</b> Sleep, Researching, LOL
 </li>
 <li>
-<b>Working @:</b> Cốc Cốc Browser | The web browser for Vietnamese people
+<b>Working @:</b> 
 </li>
 <br><br><br>
 </div>
