@@ -75,8 +75,6 @@
 <img src="https://media.giphy.com/media/DAof5KweijCUg/giphy.gif" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
 <p align="center">
   <a href="https://www.facebook.com/DQ1701/" target="_blank">
     <img src="https://img.shields.io/badge/DQ1701%20-%237289DA.svg?style=for-the-badge&logo=facebook&logoColor=white" />
