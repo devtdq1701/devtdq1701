@@ -71,7 +71,7 @@
 
 <h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://media.giphy.com/media/DAof5KweijCUg/giphy.gif" width="373.5px" height="208.5px">
+<img src="https://media.giphy.com/media/DAof5KweijCUg/giphy.gif">
   </div>
 <br>
 <p align="center">
