@@ -1,4 +1,13 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		img {
+      width: 50%;
+      height: 50%;
+    }
+	</style>
+</head>
 <body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
@@ -99,5 +108,6 @@
 </div>
     </center>
 </body>
+</html>
 
 
