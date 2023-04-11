@@ -4,7 +4,7 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-   <img src="https://i.imgur.com/cFSo5E1.png">
+   <img src="https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif">
 <!--   </a> -->
   <br>
 </div>
