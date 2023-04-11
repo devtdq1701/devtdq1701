@@ -4,7 +4,7 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-   <img src="https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif">
+   <img src="https://media.giphy.com/media/Q4Kd40hABQycw/giphy.gif">
 <!--   </a> -->
   <br>
 </div>
@@ -72,7 +72,7 @@
 
 <h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" width="373.5px" height="208.5px">
+<img src="https://media.giphy.com/media/DAof5KweijCUg/giphy.gif" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">Hewe awe some of my <br>
@@ -95,7 +95,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://media.giphy.com/media/Rdpnkwi84SpY4/giphy.gif">
 </div>
 <hr>
 </div>
