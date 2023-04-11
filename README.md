@@ -22,10 +22,7 @@
 <li>
  <b>Name:</b> Dang Quang</li>
 <li>
-<b>Fursona:</b> Snow Cat
-</li>
-<li>
-<b>Loves:</b> Linux, Docker =))
+<b>Loves:</b> Linux, Docker, K8S
 </li>
 <li>
 <b>Gender:</b> he/his/Male 🇻🇳
@@ -34,7 +31,7 @@
 <b>Hobbys:</b> Sleep, Researching, LOL
 </li>
 <li>
-<b>Working @:</b> 
+<b>Working @VNPT-IT</b> 
 </li>
 <br><br><br>
 </div>
