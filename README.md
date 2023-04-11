@@ -1,19 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<style>
-		img {
-      width: 50%;
-      height: 50%;
-    }
-	</style>
-</head>
 <body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-   <img src="https://media.giphy.com/media/Q4Kd40hABQycw/giphy.gif">
+   <img src="https://media.giphy.com/media/Q4Kd40hABQycw/giphy.gif" style="width: 50%; height: 50%;">
 <!--   </a> -->
   <br>
 </div>
@@ -24,7 +16,7 @@
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <br>
   <div align="center">
-<img src="https://media.giphy.com/media/I6wUi5eTdUCWI/giphy.gif">
+<img src="https://media.giphy.com/media/I6wUi5eTdUCWI/giphy.gif" style="width: 50%; height: 50%;">
   </div>
   <br>
 <div>  
@@ -49,7 +41,7 @@
 <h2 align="center">~ 📇 𝓜𝔂 𝓦𝓸𝓻𝓴𝓼𝓹𝓪𝓬𝓮  📇 ~</h2>
 <p>
   <div align="center">
-<img src="https://media.giphy.com/media/12shQyP6KMXCZW/giphy.gif">
+<img src="https://media.giphy.com/media/12shQyP6KMXCZW/giphy.gif" style="width: 50%; height: 50%;">
   </div>
 </div>
 <div>
@@ -80,7 +72,7 @@
 
 <h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://media.giphy.com/media/DAof5KweijCUg/giphy.gif">
+<img src="https://media.giphy.com/media/DAof5KweijCUg/giphy.gif" style="width: 50%; height: 50%;">
   </div>
 <br>
 <p align="center">
@@ -101,7 +93,7 @@
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://media.giphy.com/media/Rdpnkwi84SpY4/giphy.gif">
+<img src="https://media.giphy.com/media/Rdpnkwi84SpY4/giphy.gif" style="width: 50%; height: 50%;">
 </div>
 <hr>
 </div>
