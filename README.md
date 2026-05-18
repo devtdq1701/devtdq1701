@@ -84,8 +84,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="mailto:nnhuyenmyepu1701@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/nnhuyenmyepu1701@gmail.com%20-%239146FF.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <a href="mailto:dangquang.170120@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/dangquang.170120@gmail.com%20-%239146FF.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 </div>
