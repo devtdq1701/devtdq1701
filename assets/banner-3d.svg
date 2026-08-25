@@ -123,13 +123,13 @@
   </g>
 
   <!-- Left Content: Status Badge -->
-  <rect x="40" y="28" width="185" height="24" class="cls-badge-bg"/>
+  <rect x="40" y="28" width="170" height="24" class="cls-badge-bg"/>
   <circle cx="53" cy="40" r="3.5" fill="#22C55E" class="anim-dot"/>
-  <text x="65" y="44" class="cls-badge-text">SYSADMIN @ WORK</text>
+  <text x="65" y="44" class="cls-badge-text">SYSADMIN // DEVTDQ</text>
 
   <!-- Left Content: Name & Title -->
   <text x="40" y="88" class="cls-title">TRẦN ĐĂNG QUANG</text>
-  <text x="40" y="112" class="cls-sub">Linux &amp; System Administrator | Automation &amp; DevOps Enthusiast</text>
+  <text x="40" y="112" class="cls-sub">Linux System Administrator • Containerization • Automation</text>
 
   <!-- Left Content: Tech Badges / Pills -->
   <g transform="translate(40, 130)">
@@ -157,8 +157,8 @@
 
   <!-- Terminal Bottom Prompt -->
   <g transform="translate(40, 185)">
-    <text x="0" y="16" font-family="monospace" font-size="13" fill="#64748B">$ systemctl is-active infrastructure</text>
-    <text x="270" y="16" font-family="monospace" font-size="13" fill="#22C55E">active (running)</text>
+    <text x="0" y="16" font-family="monospace" font-size="13" fill="#64748B">$ systemctl is-active --quiet systemd &amp;&amp; echo "online"</text>
+    <text x="430" y="16" font-family="monospace" font-size="13" fill="#22C55E">online</text>
   </g>
 
   <!-- Outer Border -->

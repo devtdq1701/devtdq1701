@@ -1,113 +1,107 @@
 <div align="center">
 
-<!-- Pure SVG 3D Isometric Header Banner -->
+<!-- Header Banner -->
 <a href="https://github.com/devtdq1701">
-  <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/banner-3d.svg" alt="Trần Đăng Quang Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/banner-3d.svg" alt="Trần Đăng Quang" width="100%" />
 </a>
 
 <br/><br/>
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=080C16)](https://t.me/quangtd)
-&nbsp;
-[![Email](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080C16)](mailto:dangquang.170120@gmail.com)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=080C16)](https://www.facebook.com/DQ1701/)
-
-<br/>
+<p align="center">
+  <a href="https://t.me/quangtd"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  &nbsp;
+  <a href="mailto:dangquang.170120@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/DQ1701/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
 </div>
 
 ---
 
-### 🖥️ `root@server:~# systemctl status sysadmin.service`
+### // System Information
 
 ```yaml
-● sysadmin.service - Linux System & Infrastructure Operations
-     Loaded: loaded (/etc/systemd/system/sysadmin.service; enabled)
-     Active: active (running)
-   Operator: "Trần Đăng Quang (devtdq1701)"
-       Role: "Linux & System Administrator (Sysadmin)"
-   Location: "Hanoi, Vietnam 🇻🇳"
-    OS Core: "Ubuntu Server • Debian • RHEL • Arch Linux"
-   Ops & CI: "Docker • Kubernetes • Bash Scripting • Python Automation"
- Monitoring: "Zabbix • Prometheus • Grafana"
-     Mantra: "If it runs on Linux, I'll tune it, monitor it, and automate it."
+host: "devtdq1701"
+operator: "Trần Đăng Quang"
+role: "Linux & System Administrator (Sysadmin)"
+location: "Hanoi, Vietnam"
+focus:
+  - "Linux Server Administration & OS Tuning (Ubuntu, Debian, RHEL, Arch)"
+  - "Container Orchestration & Maintenance (Docker, Kubernetes RKE2)"
+  - "Task Automation & Tooling with Bash and Python"
+  - "Infrastructure Observability & Monitoring (Zabbix, Prometheus, Grafana)"
 ```
 
 ---
 
-### 🛠️ Sysadmin Toolkit & Technologies
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,kubernetes,bash,python,prometheus,grafana,postgres,git,githubactions&theme=dark" alt="Tech Stack Icons" />
-</a>
-
-<br/><br/>
+### // Stack & Tooling
 
 <table>
   <thead>
-    <tr style="border-bottom: 2px solid #00F0FF;">
-      <th align="left" width="28%">Domain</th>
-      <th align="left">Tools &amp; Responsibilities</th>
+    <tr>
+      <th align="left" width="26%">Domain</th>
+      <th align="left">Technologies &amp; Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>🐧 Linux &amp; OS Core</strong></td>
-      <td><code>Ubuntu Server</code> <code>Debian</code> <code>RHEL / Rocky Linux</code> <code>Systemd</code> <code>LVM / Storage</code></td>
+      <td><strong>Operating Systems</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+        <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+        <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+      </td>
     </tr>
     <tr>
-      <td><strong>🐳 Containers &amp; K8s</strong></td>
-      <td><code>Docker</code> <code>Kubernetes (RKE2)</code> <code>Helm</code> <code>Kyverno</code> <code>Container Security</code></td>
+      <td><strong>Containers &amp; K8s</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kyverno-00A98F?style=flat-square&logoColor=white" />
+      </td>
     </tr>
     <tr>
-      <td><strong>📜 Automation &amp; Scripting</strong></td>
-      <td><code>Bash / Shell Scripting</code> <code>Python 3</code> <code>Ansible</code> <code>CI/CD Pipelines</code></td>
+      <td><strong>Automation &amp; Scripting</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      </td>
     </tr>
     <tr>
-      <td><strong>📊 Monitoring &amp; Alerting</strong></td>
-      <td><code>Zabbix</code> <code>Prometheus</code> <code>Grafana</code> <code>Log Analysis</code> <code>Capacity Planning</code></td>
+      <td><strong>Monitoring &amp; Telemetry</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+      </td>
     </tr>
     <tr>
-      <td><strong>🛡️ Services &amp; Registry</strong></td>
-      <td><code>Sonatype Nexus 3</code> <code>Harbor</code> <code>Nginx / Traefik Ingress</code> <code>SSL / TLS Management</code></td>
+      <td><strong>Services &amp; Registry</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Sonatype_Nexus-116A9C?style=flat-square&logo=sonatype&logoColor=white" />
+        <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      </td>
     </tr>
   </tbody>
 </table>
 
-</div>
-
 ---
 
-### 📦 Featured Project
+### // Open Source Project
 
-<div align="center">
+#### [**`nexus-cli`**](https://github.com/devtdq1701/nexus-cli)
+CLI tool viết bằng Python 3 để quản trị và tự động hóa thao tác trên Sonatype Nexus Repository Manager 3 (NXRM3).
 
-### ⚡ [**`nexus-cli`**](https://github.com/devtdq1701/nexus-cli)
-*CLI tool viết bằng Python 3 để quản trị và tự động hóa tác vụ trên các cụm Sonatype Nexus Repository Manager 3 (NXRM3).*
-
-</div>
-
-- 📊 **Thống kê dung lượng**: Quét phân tích dung lượng lưu trữ trên toàn bộ repo và bóc tách kích thước chi tiết theo từng Docker image.
-- 🐳 **Dọn dẹp Docker an toàn**: Tự động lọc prune tag cũ (`--older-than 30d`), giữ lại $N$ tag mới nhất độc lập theo từng image (`--keep-last <N>`), bảo vệ branch bằng regex và chế độ dry-run mặc định.
-- 🛡️ **Chống nghẽn API (Anti-Rate-Limiting)**: Tự động xử lý HTTP 429 Retry-After, exponential backoff và giới hạn tốc độ request.
-- 🧹 **Kích hoạt Task bảo trì**: Hỗ trợ trigger tự động các maintenance task (`Admin - Compact blob store`, `Docker cleanup`).
-
----
-
-### 🌐 3D Isometric Contribution Skyline
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/profile-3d-contrib/profile-green.svg">
-  <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
-</picture>
-
-</div>
+- **Storage Analytics**: Quét thống kê dung lượng repository, bóc tách chi tiết kích thước theo Docker image và TTL disk cache.
+- **Docker Retention Pruning**: Tự động dọn dẹp tag cũ (`--older-than 30d`), giữ $N$ tag mới nhất độc lập theo từng image (`--keep-last <N>`), bảo vệ branch bằng regex và chế độ dry-run mặc định.
+- **Anti-Rate-Limiting**: Tự động xử lý HTTP 429 Retry-After, exponential backoff và giới hạn tốc độ request.
+- **Maintenance Automation**: Tự động kích hoạt task bảo trì hệ thống (`Admin - Compact blob store`, `Docker cleanup`).
 
 ---
 
@@ -117,7 +111,5 @@
 $ uptime
 up 1460 days, load average: 0.05, 0.03, 0.00
 ```
-
-<sub>⚡ Pure SVG rendered natively on GitHub • 100% Uptime Guaranteed</sub>
 
 </div>
