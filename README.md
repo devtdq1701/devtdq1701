@@ -1,60 +1,57 @@
 <div align="center">
 
-<!-- 3D Isometric Sysadmin Command Center Banner -->
-<a href="https://github.com/devtdq1701">
-  <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/banner.jpg" alt="Trần Đăng Quang // Linux Sysadmin 3D Command Center" width="100%" />
-</a>
+<!-- Header Aesthetic Banner -->
+<img src="https://media.giphy.com/media/Q4Kd40hABQycw/giphy.gif" width="70%" style="border-radius: 10px;" alt="Banner" />
 
 <br/><br/>
 
-# `root@devtdq1701:~$`
+# `Hi there, I'm Dang Quang 👋`
 
-## **Trần Đăng Quang**
 ### `Linux & System Administrator (Sysadmin)`
-**Hanoi, Vietnam**
+**Hanoi, Vietnam 🇻🇳**
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/quangtd)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dangquang.170120@gmail.com)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/DQ1701/)
-
-<br/>
+<p align="center">
+  <a href="https://t.me/quangtd">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="mailto:dangquang.170120@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/DQ1701/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### // System Information
+### // About Me
 
-```yaml
-host: "devtdq1701"
-operator: "Trần Đăng Quang"
-role: "Linux & System Administrator (Sysadmin)"
-location: "Hanoi, Vietnam"
-focus:
-  - "Linux Server Administration & OS Tuning (Ubuntu, Debian, RHEL, Arch)"
-  - "Container Orchestration & Maintenance (Docker, Kubernetes RKE2)"
-  - "Task Automation & Tooling with Bash and Python"
-  - "Infrastructure Observability & Monitoring (Zabbix, Prometheus, Grafana)"
-```
+- 🐧 **Daily Driver**: Linux (Ubuntu Server, Debian, RHEL, Arch Linux).
+- 🐳 **Passions**: Containerization, Kubernetes cluster maintenance, OS tuning.
+- ⚡ **Automation**: Writing Bash scripts and Python tools to eliminate repetitive tasks.
+- 📊 **Monitoring**: Keeping systems healthy with Zabbix, Prometheus & Grafana.
+- 🎮 **Interests**: Researching tech, Gaming (LOL), Anime & Sleeping 😴.
 
 ---
 
-### // Stack & Tooling
+### // Tech Stack & Tools
 
 <table>
   <thead>
     <tr>
       <th align="left" width="26%">Domain</th>
-      <th align="left">Technologies &amp; Tools</th>
+      <th align="left">Technologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Operating Systems</strong></td>
+      <td><strong>Linux &amp; Systems</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
         <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
@@ -72,7 +69,7 @@ focus:
       </td>
     </tr>
     <tr>
-      <td><strong>Automation &amp; Scripting</strong></td>
+      <td><strong>Scripting &amp; Automation</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
         <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -89,7 +86,7 @@ focus:
       </td>
     </tr>
     <tr>
-      <td><strong>Services &amp; Registry</strong></td>
+      <td><strong>Registry &amp; Services</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Sonatype_Nexus-116A9C?style=flat-square&logo=sonatype&logoColor=white" />
         <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white" />
@@ -115,9 +112,12 @@ CLI tool viết bằng Python 3 để quản trị và tự động hóa thao t�
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/Rdpnkwi84SpY4/giphy.gif" width="55%" style="border-radius: 8px;" alt="Footer animation" />
+
+<br/><br/>
+
 ```bash
-$ uptime
-up 1460 days, load average: 0.05, 0.03, 0.00
+$ echo "Keep it simple, automate everything, and enjoy life."
 ```
 
 </div>
