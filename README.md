@@ -1,19 +1,20 @@
 <div align="center">
 
-<!-- Header Banner -->
-<a href="https://github.com/devtdq1701">
-  <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/banner-3d.svg" alt="Trần Đăng Quang" width="100%" />
-</a>
+# `root@devtdq1701:~$`
 
-<br/><br/>
+## **Trần Đăng Quang**
+### `Linux & System Administrator (Sysadmin)`
+**Hanoi, Vietnam**
 
-<p align="center">
-  <a href="https://t.me/quangtd"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  &nbsp;
-  <a href="mailto:dangquang.170120@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  &nbsp;
-  <a href="https://www.facebook.com/DQ1701/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</p>
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/quangtd)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dangquang.170120@gmail.com)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/DQ1701/)
+
+<br/>
 
 </div>
 
