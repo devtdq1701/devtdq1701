@@ -1,0 +1,199 @@
+<svg fill="none" viewBox="0 0 850 260" width="850" height="260" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background: linear-gradient(135deg, #070B14 0%, #0D1527 50%, #050811 100%);
+          width: 850px;
+          height: 260px;
+          border-radius: 16px;
+          border: 1px solid rgba(0, 240, 255, 0.25);
+          box-sizing: border-box;
+          position: relative;
+          overflow: hidden;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Fira Code', monospace;
+          color: #fff;
+        }
+
+        /* 3D Grid Perspective Floor */
+        .grid-floor {
+          position: absolute;
+          bottom: -60px;
+          left: -100px;
+          right: -100px;
+          height: 220px;
+          background-image: 
+            linear-gradient(to right, rgba(0, 240, 255, 0.15) 1px, transparent 1px),
+            linear-gradient(to bottom, rgba(0, 240, 255, 0.15) 1px, transparent 1px);
+          background-size: 32px 32px;
+          transform: perspective(300px) rotateX(65deg);
+          mask-image: linear-gradient(to top, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 85%);
+          -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 85%);
+          animation: moveGrid 12s linear infinite;
+        }
+
+        @keyframes moveGrid {
+          0% { background-position: 0 0; }
+          100% { background-position: 0 32px; }
+        }
+
+        /* 3D Isometric Hologram Cubes */
+        .iso-cube {
+          position: absolute;
+          transform-style: preserve-3d;
+          animation: float 4s ease-in-out infinite alternate;
+        }
+
+        .cube-1 { top: 45px; right: 90px; animation-delay: 0s; }
+        .cube-2 { top: 120px; right: 190px; animation-delay: -1.5s; transform: scale(0.7); }
+        .cube-3 { top: 75px; right: 260px; animation-delay: -2.8s; transform: scale(0.5); }
+
+        @keyframes float {
+          0% { transform: translateY(0px) rotate(-10deg); }
+          100% { transform: translateY(-14px) rotate(10deg); }
+        }
+
+        /* Ambient Glow & Laser Pulse */
+        .glow-sphere {
+          position: absolute;
+          width: 320px;
+          height: 320px;
+          background: radial-gradient(circle, rgba(0, 240, 255, 0.18) 0%, rgba(255, 0, 128, 0.12) 40%, transparent 70%);
+          top: -80px;
+          right: 30px;
+          border-radius: 50%;
+          filter: blur(35px);
+          animation: pulseGlow 6s ease-in-out infinite alternate;
+        }
+
+        @keyframes pulseGlow {
+          0% { transform: scale(0.9); opacity: 0.7; }
+          100% { transform: scale(1.15); opacity: 1; }
+        }
+
+        /* Content Layout */
+        .content {
+          position: absolute;
+          top: 35px;
+          left: 45px;
+          z-index: 10;
+        }
+
+        .badge-status {
+          display: inline-flex;
+          align-items: center;
+          gap: 8px;
+          background: rgba(0, 240, 255, 0.08);
+          border: 1px solid rgba(0, 240, 255, 0.4);
+          padding: 4px 14px;
+          border-radius: 20px;
+          font-size: 11px;
+          font-weight: 700;
+          letter-spacing: 1.5px;
+          color: #00F0FF;
+          text-transform: uppercase;
+          box-shadow: 0 0 15px rgba(0, 240, 255, 0.2);
+        }
+
+        .status-dot {
+          width: 7px;
+          height: 7px;
+          background: #22C55E;
+          border-radius: 50%;
+          box-shadow: 0 0 8px #22C55E;
+          animation: blink 1.4s ease-in-out infinite;
+        }
+
+        @keyframes blink {
+          0%, 100% { opacity: 1; transform: scale(1); }
+          50% { opacity: 0.3; transform: scale(0.8); }
+        }
+
+        .title {
+          font-size: 32px;
+          font-weight: 900;
+          letter-spacing: -0.5px;
+          margin: 12px 0 6px 0;
+          background: linear-gradient(90deg, #FFFFFF 0%, #00F0FF 50%, #FF007F 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+          font-size: 15px;
+          font-weight: 600;
+          color: #94A3B8;
+          letter-spacing: 0.5px;
+          margin-bottom: 14px;
+        }
+
+        .tech-pill-container {
+          display: flex;
+          gap: 8px;
+          margin-top: 10px;
+        }
+
+        .pill {
+          background: rgba(255, 255, 255, 0.05);
+          border: 1px solid rgba(255, 255, 255, 0.12);
+          padding: 4px 10px;
+          border-radius: 6px;
+          font-size: 12px;
+          color: #E2E8F0;
+          font-family: 'Fira Code', monospace;
+        }
+
+        .pill.cyan { border-color: rgba(0, 240, 255, 0.4); color: #00F0FF; }
+        .pill.pink { border-color: rgba(255, 0, 128, 0.4); color: #FF007F; }
+        .pill.green { border-color: rgba(34, 197, 94, 0.4); color: #22C55E; }
+      </style>
+
+      <div class="container">
+        <div class="glow-sphere"></div>
+        <div class="grid-floor"></div>
+
+        <!-- 3D Voxel Node SVGs -->
+        <svg class="iso-cube cube-1" width="100" height="110" viewBox="0 0 100 110">
+          <!-- Top Face -->
+          <polygon points="50,10 90,30 50,50 10,30" fill="#00F0FF" opacity="0.9" />
+          <!-- Left Face -->
+          <polygon points="10,30 50,50 50,95 10,75" fill="#0077B6" opacity="0.8" />
+          <!-- Right Face -->
+          <polygon points="50,50 90,30 90,75 50,95" fill="#023E8A" opacity="0.95" />
+          <!-- Inner Core Glow -->
+          <circle cx="50" cy="50" r="12" fill="#FFFFFF" opacity="0.6" filter="blur(4px)" />
+        </svg>
+
+        <svg class="iso-cube cube-2" width="100" height="110" viewBox="0 0 100 110">
+          <polygon points="50,10 90,30 50,50 10,30" fill="#FF007F" opacity="0.9" />
+          <polygon points="10,30 50,50 50,95 10,75" fill="#B5179E" opacity="0.8" />
+          <polygon points="50,50 90,30 90,75 50,95" fill="#7209B7" opacity="0.95" />
+        </svg>
+
+        <svg class="iso-cube cube-3" width="100" height="110" viewBox="0 0 100 110">
+          <polygon points="50,10 90,30 50,50 10,30" fill="#22C55E" opacity="0.9" />
+          <polygon points="10,30 50,50 50,95 10,75" fill="#16A34A" opacity="0.8" />
+          <polygon points="50,50 90,30 90,75 50,95" fill="#15803D" opacity="0.95" />
+        </svg>
+
+        <div class="content">
+          <div class="badge-status">
+            <span class="status-dot"></span>
+            K8S Cluster Nodes: 99.999% Uptime
+          </div>
+          <div class="title">TRẦN ĐĂNG QUANG</div>
+          <div class="subtitle">Senior DevOps &amp; Cloud Platform Infrastructure Architect</div>
+          
+          <div class="tech-pill-container">
+            <span class="pill cyan">#Kubernetes</span>
+            <span class="pill pink">#Docker</span>
+            <span class="pill green">#Python</span>
+            <span class="pill">#CI/CD</span>
+            <span class="pill">#Kyverno</span>
+            <span class="pill">#SRE</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

@@ -1,0 +1,53 @@
+name: Generate 3D Contrib and Snake
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D & Snake SVGs
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00F0FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+
+      - name: Deploy Generated Artifacts
+        run: |
+          mkdir -p assets/
+          if [ -d "profile-3d-contrib" ]; then
+            cp -r profile-3d-contrib assets/
+          fi
+          if [ -d "dist" ]; then
+            cp dist/*.svg assets/
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(3d): update 3D contribution graph and snake animation [skip ci]"
+            git push origin main
+          fi
