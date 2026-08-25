@@ -96,11 +96,25 @@
 
 ---
 
-### 🐍 Activity & Contribution Stream
+### 🌐 3D Isometric Contribution Skyline & Activity Stream
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=devtdq1701&theme=tokyo-night&hide_border=true&bg_color=090D16&color=00F0FF&line=FF007F&point=FFFFFF'" />
+<!-- 3D Isometric Contribution Cityscape -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-3d-contrib/profile-green-animate.svg">
+  <img src="./assets/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- Animated Snake Contribution Stream -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
+  <img src="./assets/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+</picture>
 
 </div>
 
