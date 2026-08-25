@@ -1,13 +1,10 @@
 <div align="center">
 
-<!-- 3D Isometric Sysadmin Header Banner -->
 <a href="https://github.com/devtdq1701">
-  <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/banner-3d.svg?v=3" alt="Trần Đăng Quang // Linux Sysadmin" width="100%" />
+  <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/banner-3d.svg?v=20260825_1601" alt="Trần Đăng Quang // Linux Sysadmin" width="100%" />
 </a>
 
-<br/><br/>
-
-<p align="center">
+<p align="center" style="margin-top: 12px; margin-bottom: 0;">
   <a href="https://t.me/quangtd">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
@@ -102,12 +99,12 @@ focus:
 ### // Open Source Project
 
 #### [**`nexus-cli`**](https://github.com/devtdq1701/nexus-cli)
-CLI tool viết bằng Python 3 để quản trị và tự động hóa thao tác trên Sonatype Nexus Repository Manager 3 (NXRM3).
+A high-performance Python 3 CLI tool designed to manage and automate operations across Sonatype Nexus Repository Manager 3 (NXRM3) instances.
 
-- **Storage Analytics**: Quét thống kê dung lượng repository, bóc tách chi tiết kích thước theo Docker image và TTL disk cache.
-- **Docker Retention Pruning**: Tự động dọn dẹp tag cũ (`--older-than 30d`), giữ $N$ tag mới nhất độc lập theo từng image (`--keep-last <N>`), bảo vệ branch bằng regex và chế độ dry-run mặc định.
-- **Anti-Rate-Limiting**: Tự động xử lý HTTP 429 Retry-After, exponential backoff và giới hạn tốc độ request.
-- **Maintenance Automation**: Tự động kích hoạt task bảo trì hệ thống (`Admin - Compact blob store`, `Docker cleanup`).
+- **Storage Analytics**: Scan repository disk usage, break down storage per Docker image, and utilize TTL disk caching.
+- **Docker Retention Pruning**: Automated tag cleanup (`--older-than 30d`), independent per-image retention (`--keep-last <N>`), regex branch protection, and dry-run safety by default.
+- **Anti-Rate-Limiting**: Automatic HTTP 429 `Retry-After` parsing, exponential backoff with jitter, and client pacing.
+- **Maintenance Automation**: Direct discovery and execution of system maintenance tasks (`Admin - Compact blob store`, `Docker cleanup`).
 
 ---
 
