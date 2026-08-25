@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- 3D Animated Isometric Header Banner -->
+<!-- Pure SVG 3D Isometric Header Banner -->
 <a href="https://github.com/devtdq1701">
-  <img src="./assets/banner-3d.svg" alt="Trần Đăng Quang 3D Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/banner-3d.svg" alt="Trần Đăng Quang Banner" width="100%" />
 </a>
 
 <br/><br/>
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=090D16)](https://t.me/quangtd)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=080C16)](https://t.me/quangtd)
 &nbsp;
-[![Email](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090D16)](mailto:dangquang.170120@gmail.com)
+[![Email](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080C16)](mailto:dangquang.170120@gmail.com)
 &nbsp;
-[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=090D16)](https://www.facebook.com/DQ1701/)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=080C16)](https://www.facebook.com/DQ1701/)
 
 <br/>
 
@@ -19,28 +19,29 @@
 
 ---
 
-### 🕹️ `devtdq1701@infra-node:~$ sudo systemctl status platform`
+### 🖥️ `root@server:~# systemctl status sysadmin.service`
 
 ```yaml
-● platform.service - High-Availability Cloud Infrastructure
-     Loaded: loaded (/etc/systemd/system/platform.service; enabled)
-     Active: active (running) since 2020; 99.999% SLA
-   Engineer: "Trần Đăng Quang (devtdq1701)"
-       Role: "Senior DevOps & Cloud Platform Infrastructure Architect"
+● sysadmin.service - Linux System & Infrastructure Operations
+     Loaded: loaded (/etc/systemd/system/sysadmin.service; enabled)
+     Active: active (running)
+   Operator: "Trần Đăng Quang (devtdq1701)"
+       Role: "Linux & System Administrator (Sysadmin)"
    Location: "Hanoi, Vietnam 🇻🇳"
-     Engine: "Kubernetes (RKE2) • Kyverno • Docker • Python • Terraform"
-  Telemetry: "Prometheus • Grafana • Zabbix • Loki"
-     Mantra: "Automate everything, fail gracefully, scale effortlessly."
+    OS Core: "Ubuntu Server • Debian • RHEL • Arch Linux"
+   Ops & CI: "Docker • Kubernetes • Bash Scripting • Python Automation"
+ Monitoring: "Zabbix • Prometheus • Grafana"
+     Mantra: "If it runs on Linux, I'll tune it, monitor it, and automate it."
 ```
 
 ---
 
-### 🚀 Tech Arsenal & 3D Stack Matrix
+### 🛠️ Sysadmin Toolkit & Technologies
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,python,go,bash,prometheus,grafana,ansible,terraform,postgres,git&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,kubernetes,bash,python,prometheus,grafana,postgres,git,githubactions&theme=dark" alt="Tech Stack Icons" />
 </a>
 
 <br/><br/>
@@ -49,29 +50,29 @@
   <thead>
     <tr style="border-bottom: 2px solid #00F0FF;">
       <th align="left" width="28%">Domain</th>
-      <th align="left">Technologies &amp; Architecture</th>
+      <th align="left">Tools &amp; Responsibilities</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>☁️ Cloud &amp; Containers</strong></td>
-      <td><code>Kubernetes (RKE2)</code> <code>Docker</code> <code>Helm</code> <code>Terraform</code> <code>Kyverno Policies</code></td>
+      <td><strong>🐧 Linux &amp; OS Core</strong></td>
+      <td><code>Ubuntu Server</code> <code>Debian</code> <code>RHEL / Rocky Linux</code> <code>Systemd</code> <code>LVM / Storage</code></td>
     </tr>
     <tr>
-      <td><strong>⚡ CI/CD &amp; Automation</strong></td>
-      <td><code>GitHub Actions</code> <code>GitLab CI</code> <code>Ansible</code> <code>Bash</code> <code>Python Automation</code></td>
+      <td><strong>🐳 Containers &amp; K8s</strong></td>
+      <td><code>Docker</code> <code>Kubernetes (RKE2)</code> <code>Helm</code> <code>Kyverno</code> <code>Container Security</code></td>
     </tr>
     <tr>
-      <td><strong>📊 Observability &amp; SRE</strong></td>
-      <td><code>Prometheus</code> <code>Grafana</code> <code>Zabbix</code> <code>Elasticsearch</code> <code>Loki</code></td>
+      <td><strong>📜 Automation &amp; Scripting</strong></td>
+      <td><code>Bash / Shell Scripting</code> <code>Python 3</code> <code>Ansible</code> <code>CI/CD Pipelines</code></td>
     </tr>
     <tr>
-      <td><strong>🛡️ Security &amp; Registry</strong></td>
-      <td><code>Sonatype Nexus 3</code> <code>Harbor</code> <code>HashiCorp Vault</code> <code>Nessus Scanner</code></td>
+      <td><strong>📊 Monitoring &amp; Alerting</strong></td>
+      <td><code>Zabbix</code> <code>Prometheus</code> <code>Grafana</code> <code>Log Analysis</code> <code>Capacity Planning</code></td>
     </tr>
     <tr>
-      <td><strong>🐍 Core Languages</strong></td>
-      <td><code>Python 3.12</code> <code>Go</code> <code>POSIX Shell / Bash</code> <code>SQL</code></td>
+      <td><strong>🛡️ Services &amp; Registry</strong></td>
+      <td><code>Sonatype Nexus 3</code> <code>Harbor</code> <code>Nginx / Traefik Ingress</code> <code>SSL / TLS Management</code></td>
     </tr>
   </tbody>
 </table>
@@ -80,40 +81,30 @@
 
 ---
 
-### 📦 Highlighted Open-Source Project
+### 📦 Featured Project
 
 <div align="center">
 
 ### ⚡ [**`nexus-cli`**](https://github.com/devtdq1701/nexus-cli)
-*A high-performance Python 3 CLI tool to automate and manage Sonatype Nexus Repository Manager 3 (NXRM3) instances.*
+*CLI tool viết bằng Python 3 để quản trị và tự động hóa tác vụ trên các cụm Sonatype Nexus Repository Manager 3 (NXRM3).*
 
 </div>
 
-- 📊 **Storage Breakdown & Analytics**: Multi-repository disk scan, Docker image space aggregation, and TTL caching.
-- 🐳 **Per-Image Docker Retention**: Independent retention filtering (`--keep-last <N>`), age pruning (`--older-than 30d`), regex protection, and dry-run safety.
-- 🛡️ **Anti-Rate-Limiting**: Smart HTTP 429 backoff with `Retry-After` header parsing, jitter, and client pacing.
-- 🧹 **Task Automation**: Triggering system maintenance tasks (`Admin - Compact blob store`, `Docker cleanup`).
+- 📊 **Thống kê dung lượng**: Quét phân tích dung lượng lưu trữ trên toàn bộ repo và bóc tách kích thước chi tiết theo từng Docker image.
+- 🐳 **Dọn dẹp Docker an toàn**: Tự động lọc prune tag cũ (`--older-than 30d`), giữ lại $N$ tag mới nhất độc lập theo từng image (`--keep-last <N>`), bảo vệ branch bằng regex và chế độ dry-run mặc định.
+- 🛡️ **Chống nghẽn API (Anti-Rate-Limiting)**: Tự động xử lý HTTP 429 Retry-After, exponential backoff và giới hạn tốc độ request.
+- 🧹 **Kích hoạt Task bảo trì**: Hỗ trợ trigger tự động các maintenance task (`Admin - Compact blob store`, `Docker cleanup`).
 
 ---
 
-### 🌐 3D Isometric Contribution Skyline & Activity Stream
+### 🌐 3D Isometric Contribution Skyline
 
 <div align="center">
 
-<!-- 3D Isometric Contribution Cityscape -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-3d-contrib/profile-green-animate.svg">
-  <img src="./assets/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
-</picture>
-
-<br/><br/>
-
-<!-- Animated Snake Contribution Stream -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
-  <img src="./assets/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/profile-3d-contrib/profile-green.svg">
+  <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
 </picture>
 
 </div>
@@ -123,9 +114,10 @@
 <div align="center">
 
 ```bash
-$ echo "Stay curious, build resilient systems, and push to production with confidence."
+$ uptime
+up 1460 days, load average: 0.05, 0.03, 0.00
 ```
 
-<sub>⚡ GPU-Accelerated 3D SVGs natively hosted on GitHub • 100% Uptime Guaranteed</sub>
+<sub>⚡ Pure SVG rendered natively on GitHub • 100% Uptime Guaranteed</sub>
 
 </div>
