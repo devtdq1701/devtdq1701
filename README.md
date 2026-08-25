@@ -1,16 +1,11 @@
 <div align="center">
 
-<!-- Header Aesthetic Banner -->
-<img src="https://media.giphy.com/media/Q4Kd40hABQycw/giphy.gif" width="70%" style="border-radius: 10px;" alt="Banner" />
+<!-- 3D Isometric Sysadmin Header Banner -->
+<a href="https://github.com/devtdq1701">
+  <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/banner-3d.svg?v=3" alt="Trần Đăng Quang // Linux Sysadmin" width="100%" />
+</a>
 
 <br/><br/>
-
-# `Hi there, I'm Dang Quang 👋`
-
-### `Linux & System Administrator (Sysadmin)`
-**Hanoi, Vietnam 🇻🇳**
-
-<br/>
 
 <p align="center">
   <a href="https://t.me/quangtd">
@@ -30,28 +25,34 @@
 
 ---
 
-### // About Me
+### // System Information
 
-- 🐧 **Daily Driver**: Linux (Ubuntu Server, Debian, RHEL, Arch Linux).
-- 🐳 **Passions**: Containerization, Kubernetes cluster maintenance, OS tuning.
-- ⚡ **Automation**: Writing Bash scripts and Python tools to eliminate repetitive tasks.
-- 📊 **Monitoring**: Keeping systems healthy with Zabbix, Prometheus & Grafana.
-- 🎮 **Interests**: Researching tech, Gaming (LOL), Anime & Sleeping 😴.
+```yaml
+host: "devtdq1701"
+operator: "Trần Đăng Quang"
+role: "Linux & System Administrator (Sysadmin)"
+location: "Hanoi, Vietnam"
+focus:
+  - "Linux Server Administration & OS Tuning (Ubuntu, Debian, RHEL, Arch)"
+  - "Container Orchestration & Maintenance (Docker, Kubernetes RKE2)"
+  - "Task Automation & Tooling with Bash and Python"
+  - "Infrastructure Observability & Monitoring (Zabbix, Prometheus, Grafana)"
+```
 
 ---
 
-### // Tech Stack & Tools
+### // Stack & Tooling
 
 <table>
   <thead>
     <tr>
       <th align="left" width="26%">Domain</th>
-      <th align="left">Technologies</th>
+      <th align="left">Technologies &amp; Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Linux &amp; Systems</strong></td>
+      <td><strong>Operating Systems</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
         <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
@@ -65,11 +66,11 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kyverno-00A98F?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kyverno-00A98F?style=flat-square&logo=kyverno&logoColor=white" />
       </td>
     </tr>
     <tr>
-      <td><strong>Scripting &amp; Automation</strong></td>
+      <td><strong>Automation &amp; Scripting</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
         <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -86,7 +87,7 @@
       </td>
     </tr>
     <tr>
-      <td><strong>Registry &amp; Services</strong></td>
+      <td><strong>Services &amp; Registry</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Sonatype_Nexus-116A9C?style=flat-square&logo=sonatype&logoColor=white" />
         <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white" />
@@ -112,12 +113,9 @@ CLI tool viết bằng Python 3 để quản trị và tự động hóa thao t�
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/Rdpnkwi84SpY4/giphy.gif" width="55%" style="border-radius: 8px;" alt="Footer animation" />
-
-<br/><br/>
-
 ```bash
-$ echo "Keep it simple, automate everything, and enjoy life."
+$ uptime
+up 1460 days, load average: 0.05, 0.03, 0.00
 ```
 
 </div>

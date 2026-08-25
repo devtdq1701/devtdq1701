@@ -1,78 +1,97 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 240" width="850" height="240">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="850" height="260">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#080C16"/>
-      <stop offset="60%" stop-color="#0E1726"/>
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="50%" stop-color="#0D1527"/>
       <stop offset="100%" stop-color="#050811"/>
     </linearGradient>
 
     <!-- Border Glow -->
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.5"/>
-      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.2"/>
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#FF007F" stop-opacity="0.3"/>
       <stop offset="100%" stop-color="#00F0FF" stop-opacity="0.1"/>
     </linearGradient>
 
-    <!-- Text Gradient -->
+    <!-- Text Horizontal Gradient (White -> Cyan -> Pink) -->
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#00F0FF"/>
+      <stop offset="45%" stop-color="#00F0FF"/>
+      <stop offset="90%" stop-color="#FF007F"/>
     </linearGradient>
 
-    <!-- Cube 1 Gradients (Cyan) -->
+    <!-- Cube 1 (Large Cyan/Purple) Gradients -->
     <linearGradient id="cubeTop1" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00F0FF"/>
-      <stop offset="100%" stop-color="#0077B6"/>
+      <stop offset="100%" stop-color="#7928CA"/>
     </linearGradient>
     <linearGradient id="cubeLeft1" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#023E8A"/>
-      <stop offset="100%" stop-color="#03045E"/>
+      <stop offset="0%" stop-color="#0077B6"/>
+      <stop offset="100%" stop-color="#023E8A"/>
     </linearGradient>
     <linearGradient id="cubeRight1" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#001233"/>
-      <stop offset="100%" stop-color="#000814"/>
+      <stop offset="0%" stop-color="#03045E"/>
+      <stop offset="100%" stop-color="#001233"/>
     </linearGradient>
 
-    <!-- Cube 2 Gradients (Blue) -->
+    <!-- Cube 2 (Medium Pink) Gradients -->
     <linearGradient id="cubeTop2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#3B82F6"/>
-      <stop offset="100%" stop-color="#1D4ED8"/>
+      <stop offset="0%" stop-color="#FF007F"/>
+      <stop offset="100%" stop-color="#FF758C"/>
     </linearGradient>
     <linearGradient id="cubeLeft2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#1E40AF"/>
-      <stop offset="100%" stop-color="#172554"/>
+      <stop offset="0%" stop-color="#B5179E"/>
+      <stop offset="100%" stop-color="#7209B7"/>
     </linearGradient>
     <linearGradient id="cubeRight2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#1E3A8A"/>
-      <stop offset="100%" stop-color="#0F172A"/>
+      <stop offset="0%" stop-color="#560BAD"/>
+      <stop offset="100%" stop-color="#3A0CA3"/>
     </linearGradient>
 
-    <!-- Ambient Glow -->
-    <radialGradient id="ambientGlow" cx="75%" cy="35%" r="60%">
-      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.18"/>
-      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#080C16" stop-opacity="0"/>
+    <!-- Cube 3 (Small Green) Gradients -->
+    <linearGradient id="cubeTop3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#4ADE80"/>
+    </linearGradient>
+    <linearGradient id="cubeLeft3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#16A34A"/>
+      <stop offset="100%" stop-color="#15803D"/>
+    </linearGradient>
+    <linearGradient id="cubeRight3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#15803D"/>
+      <stop offset="100%" stop-color="#14532D"/>
+    </linearGradient>
+
+    <!-- Ambient Glow Filter -->
+    <radialGradient id="ambientGlow" cx="72%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.25"/>
+      <stop offset="35%" stop-color="#FF007F" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#070B14" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
   <style>
-    .cls-bg { fill: url(#bgGrad); rx: 14px; }
-    .cls-border { fill: none; stroke: url(#borderGrad); stroke-width: 1.5; rx: 14px; }
-    .cls-title { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 900; font-size: 30px; fill: url(#textGrad); }
+    .cls-bg { fill: url(#bgGrad); rx: 16px; }
+    .cls-border { fill: none; stroke: url(#borderGrad); stroke-width: 1.5; rx: 16px; }
+    .cls-title { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 900; font-size: 32px; fill: url(#textGrad); letter-spacing: -0.5px; }
     .cls-sub { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 14px; fill: #94A3B8; }
-    .cls-badge-bg { fill: rgba(0, 240, 255, 0.08); stroke: rgba(0, 240, 255, 0.4); stroke-width: 1; rx: 10px; }
+    .cls-badge-bg { fill: rgba(0, 240, 255, 0.08); stroke: rgba(0, 240, 255, 0.5); stroke-width: 1; rx: 13px; }
     .cls-badge-text { font-family: monospace; font-size: 11px; font-weight: 700; fill: #00F0FF; letter-spacing: 1.2px; }
-    .cls-pill-bg { fill: #131E32; stroke: #233857; stroke-width: 1; rx: 6px; }
-    .cls-pill-text { font-family: monospace; font-size: 11px; font-weight: 600; fill: #CBD5E1; }
+    .cls-pill-bg { fill: #131E32; stroke-width: 1; rx: 6px; }
+    .cls-pill-text { font-family: monospace; font-size: 11px; font-weight: 600; }
     
     @keyframes float1 {
       0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-10px); }
+      50% { transform: translateY(-12px); }
     }
     @keyframes float2 {
       0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(8px); }
+      50% { transform: translateY(10px); }
+    }
+    @keyframes float3 {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-8px); }
     }
     @keyframes pulseDot {
       0%, 100% { opacity: 1; }
@@ -80,87 +99,113 @@
     }
     .anim-float1 { animation: float1 4s ease-in-out infinite; }
     .anim-float2 { animation: float2 3.5s ease-in-out infinite; }
+    .anim-float3 { animation: float3 4.5s ease-in-out infinite; }
     .anim-dot { animation: pulseDot 1.5s ease-in-out infinite; }
   </style>
 
-  <!-- Background -->
-  <rect width="850" height="240" class="cls-bg"/>
-  <rect width="850" height="240" fill="url(#ambientGlow)"/>
+  <!-- Background Base -->
+  <rect width="850" height="260" class="cls-bg"/>
+  <rect width="850" height="260" fill="url(#ambientGlow)"/>
 
-  <!-- 3D Perspective Grid -->
-  <g stroke="#00F0FF" stroke-opacity="0.12" stroke-width="1">
-    <line x1="425" y1="100" x2="0" y2="240"/>
-    <line x1="425" y1="100" x2="120" y2="240"/>
-    <line x1="425" y1="100" x2="240" y2="240"/>
-    <line x1="425" y1="100" x2="360" y2="240"/>
-    <line x1="425" y1="100" x2="480" y2="240"/>
-    <line x1="425" y1="100" x2="600" y2="240"/>
-    <line x1="425" y1="100" x2="720" y2="240"/>
-    <line x1="425" y1="100" x2="850" y2="240"/>
+  <!-- 3D Perspective Grid Floor -->
+  <g stroke="#00F0FF" stroke-opacity="0.14" stroke-width="1">
+    <line x1="425" y1="120" x2="0" y2="260"/>
+    <line x1="425" y1="120" x2="100" y2="260"/>
+    <line x1="425" y1="120" x2="200" y2="260"/>
+    <line x1="425" y1="120" x2="300" y2="260"/>
+    <line x1="425" y1="120" x2="400" y2="260"/>
+    <line x1="425" y1="120" x2="500" y2="260"/>
+    <line x1="425" y1="120" x2="600" y2="260"/>
+    <line x1="425" y1="120" x2="700" y2="260"/>
+    <line x1="425" y1="120" x2="800" y2="260"/>
+    <line x1="425" y1="120" x2="850" y2="260"/>
     
-    <line x1="280" y1="140" x2="570" y2="140"/>
-    <line x1="180" y1="170" x2="670" y2="170"/>
-    <line x1="80" y1="205" x2="770" y2="205"/>
+    <line x1="300" y1="150" x2="550" y2="150"/>
+    <line x1="200" y1="180" x2="650" y2="180"/>
+    <line x1="100" y1="215" x2="750" y2="215"/>
+    <line x1="0" y1="255" x2="850" y2="255"/>
   </g>
 
-  <!-- 3D Isometric Floating Cube (Server Node) -->
+  <!-- 3D Isometric Floating Cube 1 (Large Cyan/Purple) -->
   <g class="anim-float1">
-    <g transform="translate(680, 45)">
-      <polygon points="45,8 80,26 45,44 10,26" fill="url(#cubeTop1)"/>
-      <polygon points="10,26 45,44 45,86 10,68" fill="url(#cubeLeft1)"/>
-      <polygon points="45,44 80,26 80,68 45,86" fill="url(#cubeRight1)"/>
-      <circle cx="45" cy="44" r="4" fill="#00F0FF" opacity="0.9"/>
+    <g transform="translate(670, 50)">
+      <!-- Top Face -->
+      <polygon points="50,10 90,32 50,54 10,32" fill="url(#cubeTop1)"/>
+      <!-- Left Face -->
+      <polygon points="10,32 50,54 50,105 10,83" fill="url(#cubeLeft1)"/>
+      <!-- Right Face -->
+      <polygon points="50,54 90,32 90,83 50,105" fill="url(#cubeRight1)"/>
+      <!-- Glowing Core Node -->
+      <circle cx="50" cy="54" r="5" fill="#00F0FF" opacity="0.9"/>
     </g>
   </g>
 
-  <!-- 3D Floating Cube 2 -->
+  <!-- 3D Isometric Floating Cube 2 (Medium Pink) -->
   <g class="anim-float2">
-    <g transform="translate(585, 95)">
-      <polygon points="30,6 55,19 30,32 5,19" fill="url(#cubeTop2)"/>
-      <polygon points="5,19 30,32 30,64 5,51" fill="url(#cubeLeft2)"/>
-      <polygon points="30,32 55,19 55,51 30,64" fill="url(#cubeRight2)"/>
+    <g transform="translate(575, 115)">
+      <!-- Top Face -->
+      <polygon points="35,7 63,22 35,38 7,22" fill="url(#cubeTop2)"/>
+      <!-- Left Face -->
+      <polygon points="7,22 35,38 35,74 7,58" fill="url(#cubeLeft2)"/>
+      <!-- Right Face -->
+      <polygon points="35,38 63,22 63,58 35,74" fill="url(#cubeRight2)"/>
+    </g>
+  </g>
+
+  <!-- 3D Isometric Floating Cube 3 (Small Green) -->
+  <g class="anim-float3">
+    <g transform="translate(520, 65)">
+      <!-- Top Face -->
+      <polygon points="25,5 45,16 25,27 5,16" fill="url(#cubeTop3)"/>
+      <!-- Left Face -->
+      <polygon points="5,16 25,27 25,52 5,41" fill="url(#cubeLeft3)"/>
+      <!-- Right Face -->
+      <polygon points="25,27 45,16 45,41 25,52" fill="url(#cubeRight3)"/>
     </g>
   </g>
 
   <!-- Left Content: Status Badge -->
-  <rect x="40" y="28" width="170" height="24" class="cls-badge-bg"/>
-  <circle cx="53" cy="40" r="3.5" fill="#22C55E" class="anim-dot"/>
-  <text x="65" y="44" class="cls-badge-text">SYSADMIN // DEVTDQ</text>
+  <rect x="45" y="30" width="180" height="26" class="cls-badge-bg"/>
+  <circle cx="60" cy="43" r="3.5" fill="#22C55E" class="anim-dot"/>
+  <text x="72" y="47" class="cls-badge-text">SYSADMIN @ WORK</text>
 
   <!-- Left Content: Name & Title -->
-  <text x="40" y="88" class="cls-title">TRẦN ĐĂNG QUANG</text>
-  <text x="40" y="112" class="cls-sub">Linux System Administrator • Containerization • Automation</text>
+  <text x="45" y="96" class="cls-title">TRẦN ĐĂNG QUANG</text>
+  <text x="45" y="123" class="cls-sub">Linux &amp; System Administrator | Automation &amp; DevOps Enthusiast</text>
 
   <!-- Left Content: Tech Badges / Pills -->
-  <g transform="translate(40, 130)">
-    <rect x="0" y="0" width="70" height="24" class="cls-pill-bg" stroke="#00F0FF"/>
-    <text x="12" y="16" class="cls-pill-text" fill="#00F0FF">#Linux</text>
+  <g transform="translate(45, 145)">
+    <!-- Pill 1: Linux -->
+    <rect x="0" y="0" width="75" height="26" class="cls-pill-bg" stroke="#00F0FF"/>
+    <text x="12" y="17" class="cls-pill-text" fill="#00F0FF">#Linux</text>
 
-    <rect x="80" y="0" width="85" height="24" class="cls-pill-bg" stroke="#3B82F6"/>
-    <text x="92" y="16" class="cls-pill-text" fill="#3B82F6">#Sysadmin</text>
+    <!-- Pill 2: Docker -->
+    <rect x="85" y="0" width="80" height="26" class="cls-pill-bg" stroke="#FF007F"/>
+    <text x="97" y="17" class="cls-pill-text" fill="#FF007F">#Docker</text>
 
-    <rect x="175" y="0" width="75" height="24" class="cls-pill-bg" stroke="#22C55E"/>
-    <text x="187" y="16" class="cls-pill-text" fill="#22C55E">#Docker</text>
+    <!-- Pill 3: Kubernetes -->
+    <rect x="175" y="0" width="105" height="26" class="cls-pill-bg" stroke="#38BDF8"/>
+    <text x="187" y="17" class="cls-pill-text" fill="#38BDF8">#Kubernetes</text>
 
-    <rect x="260" y="0" width="95" height="24" class="cls-pill-bg"/>
-    <text x="272" y="16" class="cls-pill-text">#Kubernetes</text>
+    <!-- Pill 4: Python -->
+    <rect x="290" y="0" width="80" height="26" class="cls-pill-bg" stroke="#22C55E"/>
+    <text x="302" y="17" class="cls-pill-text" fill="#22C55E">#Python</text>
 
-    <rect x="365" y="0" width="65" height="24" class="cls-pill-bg"/>
-    <text x="377" y="16" class="cls-pill-text">#Bash</text>
+    <!-- Pill 5: Bash -->
+    <rect x="380" y="0" width="65" height="26" class="cls-pill-bg" stroke="#64748B"/>
+    <text x="392" y="17" class="cls-pill-text" fill="#CBD5E1">#Bash</text>
 
-    <rect x="440" y="0" width="75" height="24" class="cls-pill-bg"/>
-    <text x="452" y="16" class="cls-pill-text">#Python</text>
-
-    <rect x="525" y="0" width="75" height="24" class="cls-pill-bg"/>
-    <text x="537" y="16" class="cls-pill-text">#Zabbix</text>
+    <!-- Pill 6: Zabbix -->
+    <rect x="455" y="0" width="75" height="26" class="cls-pill-bg" stroke="#E11D48"/>
+    <text x="467" y="17" class="cls-pill-text" fill="#FB7185">#Zabbix</text>
   </g>
 
-  <!-- Terminal Bottom Prompt -->
-  <g transform="translate(40, 185)">
-    <text x="0" y="16" font-family="monospace" font-size="13" fill="#64748B">$ systemctl is-active --quiet systemd &amp;&amp; echo "online"</text>
-    <text x="430" y="16" font-family="monospace" font-size="13" fill="#22C55E">online</text>
+  <!-- Terminal Bottom Prompt (Properly Spaced) -->
+  <g transform="translate(45, 210)">
+    <text x="0" y="0" font-family="monospace" font-size="13" fill="#64748B">$ systemctl is-active infrastructure</text>
+    <text x="310" y="0" font-family="monospace" font-size="13" fill="#22C55E">active (running)</text>
   </g>
 
   <!-- Outer Border -->
-  <rect width="850" height="240" class="cls-border"/>
+  <rect width="850" height="260" class="cls-border"/>
 </svg>
