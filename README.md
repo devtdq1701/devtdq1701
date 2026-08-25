@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- 3D Isometric Sysadmin Command Center Banner -->
+<a href="https://github.com/devtdq1701">
+  <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/banner.jpg" alt="Trần Đăng Quang // Linux Sysadmin 3D Command Center" width="100%" />
+</a>
+
+<br/><br/>
+
 # `root@devtdq1701:~$`
 
 ## **Trần Đăng Quang**
