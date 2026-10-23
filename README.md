@@ -4,20 +4,6 @@
   <img src="https://raw.githubusercontent.com/devtdq1701/devtdq1701/main/assets/banner-3d.svg?v=20260825_1601" alt="Trần Đăng Quang // Linux Sysadmin" width="100%" />
 </a>
 
-<p align="center" style="margin-top: 12px; margin-bottom: 0;">
-  <a href="https://t.me/quangtd">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="mailto:dangquang.170120@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/DQ1701/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-
 </div>
 
 ---
