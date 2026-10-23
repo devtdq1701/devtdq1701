@@ -81,19 +81,6 @@ focus:
 </table>
 
 ---
-
-### // Open Source Project
-
-#### [**`nexus-cli`**](https://github.com/devtdq1701/nexus-cli)
-A high-performance Python 3 CLI tool designed to manage and automate operations across Sonatype Nexus Repository Manager 3 (NXRM3) instances.
-
-- **Storage Analytics**: Scan repository disk usage, break down storage per Docker image, and utilize TTL disk caching.
-- **Docker Retention Pruning**: Automated tag cleanup (`--older-than 30d`), independent per-image retention (`--keep-last <N>`), regex branch protection, and dry-run safety by default.
-- **Anti-Rate-Limiting**: Automatic HTTP 429 `Retry-After` parsing, exponential backoff with jitter, and client pacing.
-- **Maintenance Automation**: Direct discovery and execution of system maintenance tasks (`Admin - Compact blob store`, `Docker cleanup`).
-
----
-
 <div align="center">
 
 ```bash
